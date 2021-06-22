@@ -1,0 +1,10 @@
+_id: fld_wrk_27278abf27a64e809512b4d710772e4aaa8f342e
+type: RequestGroup
+parentId: wrk_27278abf27a64e809512b4d710772e4a
+modified: 1624298105815
+created: 1624298105815
+name: Generate UUID
+description: Creates a random UUDI and returns it in a JSON structure
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1624298105815
