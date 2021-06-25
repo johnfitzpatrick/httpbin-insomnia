@@ -1,7 +1,7 @@
 _id: spc_f347abd62c48437ba3bf65008ad3c749
 type: ApiSpec
 parentId: wrk_27278abf27a64e809512b4d710772e4a
-modified: 1624612640594
+modified: 1624614329260
 created: 1624298109466
 fileName: UUID generator based on httpbin.org 1.0.3
 contents: >-
@@ -27,7 +27,7 @@ contents: >-
     title: UUID generator based on httpbin.org
     version: 1.0.3
   paths:
-    /uuid
+    /uuid:
       get:
         responses:
           "200":
